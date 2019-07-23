@@ -1,7 +1,7 @@
 name: "daniels-website"
 output_dir: "."
 navbar:
-  title: "Daniels Website"
+  title: "Daniel J. F. Gerber"
   left:
     - text: "Home"
       href: index.html
