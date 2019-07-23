@@ -4,4 +4,6 @@ title: "About"
 
 I am a researcher at the Rechtswissenschaftliche Fakultät, University of Zurich, Switzerland.
 
-I currently study judridical bodies like the European Court of Human Rights, the Institute für geistiges Eigentum, Sozialversicherungsgericht Zürich and the swiss Bundesgericht using statistical tools, machine learning methods and text mining. Besides this, I develop Software for computer aided coding of text data using R.
+I currently study judridical bodies like the [European Court of Human Rights](https://echr.coe.int), the [Institute für geistiges Eigentum](https://www.ige.ch/), [Sozialversicherungsgericht Zürich](https://www.ige.ch/de.html) and the [Swiss Bundesgericht](https://www.bger.ch/index.htm) using statistical tools, machine learning methods and text mining. Besides this, I develop Software for computer aided coding of text data using R.
+
+I am a contributer to the R-package [spam](https://cran.r-project.org/web/packages/spam/index.html), which implements matrix algebra for high dimensional sparse matrices.
