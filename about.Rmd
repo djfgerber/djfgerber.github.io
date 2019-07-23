@@ -1,5 +1,7 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
-Why I am awesome. or something alike
+I am a researcher at the Rechtswissenschaftliche Fakultät, University of Zurich, Switzerland.
+
+I currently study judridical bodies like the European Court of Human Rights, the Institute für geistiges Eigentum, Sozialversicherungsgericht Zürich and the swiss Bundesgericht using statistical tools, machine learning methods and text mining. Besides this, I develop Software for computer aided coding of text data using R.
