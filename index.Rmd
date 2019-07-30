@@ -1,5 +1,6 @@
 ---
-title: "Daniel's Website"
+title: "Ahoi"
 ---
 
-Hello, World!
+
+Welcome to my website. Unfortunately, this website is under construction. Please don't take anything seriously until this note disappears.
