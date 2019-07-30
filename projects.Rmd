@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+### Sudoku Solver
+
+I created a Sudoku solver implementation in R. The implemented rules are almost complete for a 9x9 Sudoku. However, there are Sudoku for which the solver needs to try. I don't know if I forgot to implement one rule or if these Sudokus are impossible to solve without trying. They could also have more than one solution.
+
+For now, the program is not available online. If time permits, I will implement a shiny app solution and make it available here. Also, the solver solves the whole Sudoku now. For an end user, it is usually more interesting to only know the next number. This needs to be implemented too. Other forms and dimensions of Sudokus could be considered thereafter.
+
+### Robot Fish
+
+One of my dreams is to build an autonomous robot fish. It could have several purposes like: 
+
+- studying sea life in their natural habitat
+- explore the impact of silicium mining on ocean grounds
+- map the ocean ground
+- taking water samples to identify natural habitat and make a contribution for its protection
+
+The robot fish should be autonomous. This could be achieved by surfacing and recharging with solar energy. While surfacing, it could also exchange data with the control unit. The shape should be fish like to not disturb the wild life. The fish appearance should be chosen such that it will not be eaten nor be perceived as a danger by most fish. The propulsion could be with a conventional helix or with a typical fish tail movement. There are several un-faced challenges. Regulating buoyancy might be challenging, under water orientation another one.
+
+While this project is certainly not utopia, it is a challenge. For it to succeed, I would need a team of robotics and engineering people to help me. This is why it remains unimplemented yet.
+
+### Gambling
+
+Gambling is a serious issue in our society. There are a lot of addicted gamblers in Switzerland and world wide. With the rise of online gambling this issue has become even more important. Every person who gives a thought on the economics of gambling will agree that no casino would exist if the players had a fair chance of winning. Also from a mathematical perspective it is usually easy to see that the expected gain for the gambler will be negative. However, many do not realize this. Addicts cost the society a lot of money and casinos only participate marginally to this cost.
+
+Using simulations, one could try to find better predictions than the sports bet institutions. The predictions and expected gains could be tested on previous years of sports games. If this is successful, online sports bets providers could be destroyed. The project is probably not feasible because if it was, somebody else would probably already have done it.
+

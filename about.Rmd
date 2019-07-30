@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-I am a researcher at the Rechtswissenschaftliche Fakultät, University of Zurich, Switzerland.
+I am a researcher at the Rechtswissenschaftliche Fakultät, University of Zurich, Switzerland. I currently study juridical bodies like the [European Court of Human Rights](https://echr.coe.int), the [Institute für geistiges Eigentum](https://www.ige.ch/), [Sozialversicherungsgericht Zürich](https://www.sozialversicherungsgericht.zh.ch/) and the [Swiss Bundesgericht](https://www.bger.ch/index.htm) using statistical tools, machine learning methods and text mining. Juridical bodies are a ground pillar of democratic societies. One of my goals is thus to monitor the fairness of juridical processes and to increase their transparency.
 
-I currently study juridical bodies like the [European Court of Human Rights](https://echr.coe.int), the [Institute für geistiges Eigentum](https://www.ige.ch/), [Sozialversicherungsgericht Zürich](https://www.sozialversicherungsgericht.zh.ch/) and the [Swiss Bundesgericht](https://www.bger.ch/index.htm) using statistical tools, machine learning methods and text mining. Besides this, I develop Software for computer aided coding of text data using R.
+Besides this, I develop Software for computer aided coding of text data using R. I am a contributor to the R-package [spam](https://cran.r-project.org/web/packages/spam/index.html), which implements matrix algebra for high dimensional sparse matrices.
 
-I am a contributor to the R-package [spam](https://cran.r-project.org/web/packages/spam/index.html), which implements matrix algebra for high dimensional sparse matrices.
+I am also a high school teacher for mathematics and work sometimes as a substitute teacher. My mission is to help students understand that there is no need to fear mathematics and numbers and that in fact, mathematics is a very powerful tool for problem solving. Furthermore, I think it is important that students understand the limitations of mathematical analysis and to be able to spot shortcomings in our numberphilic world.
+
+Besides my work, I have several other [projects](projects.html). For more information about me, look at my CV.
